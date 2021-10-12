@@ -1,7 +1,7 @@
 # NewsAsia
 This is an assignment completed as part of SquareShift interview process.
 
-src folder contains the java classes.
+src folder contains the java code.
 
 CrossBrowser.xml contains ways to execute testcases on different browsers inside test suite folder.
 
